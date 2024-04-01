@@ -25,10 +25,10 @@ This project focuses on predicting customer churn using Artificial Neural Networ
 - TensorFlow (version >= 2.5.0)
 - Keras (version >= 2.4.3)
 3. Run the project code:
-  `data.csv`
+  `Naan Mudhalavan project (1).ipnby`
 
 ## Dataset
-The project utilizes a dataset containing customer demographic information, purchasing behavior, and churn status. The dataset is stored in the `data` directory and can be accessed via the `data.csv` file.
+The project utilizes a dataset containing customer demographic information, purchasing behavior, and churn status. The dataset is stored in the `main` directory and can be accessed via the `WA_Fn-UseC_-Telco-Customer-Churn.csv` file.
 
 ## Results
 The trained ANN model achieves an accuracy of approximately 80.07% on the test dataset, with a low loss of 0.4163. These results demonstrate the effectiveness of the model in predicting customer churn and providing actionable insights for businesses.
