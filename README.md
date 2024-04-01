@@ -1,5 +1,5 @@
-# Customer Churn Prediction with Artificial Neural Networks
-An Investigation into Customer Churn Prediction Through Artificial Neural Networks
+# An Investigation into Customer Churn Prediction Through Artificial Neural Networks
+Customer Churn Prediction with Artificial Neural Networks
 
 ## Overview
 This project focuses on predicting customer churn using Artificial Neural Networks (ANN). Customer churn, or the rate at which customers stop doing business with a company, is a critical concern for businesses across industries. By leveraging ANN technology, we aim to develop accurate predictive models that can identify customers at risk of churn, enabling businesses to implement proactive retention strategies and maximize customer lifetime value.
@@ -12,7 +12,7 @@ This project focuses on predicting customer churn using Artificial Neural Networ
 
 ## Getting Started
 1. Clone the repository to your local machine:
-   git clone [link to github](https://github.com/your-username/customer-churn-prediction.git)
+   git clone [link to github](https://github.com/sarathchandrareddy2004/customer-churn-prediction.git)
 2. Install the required dependencies:
   ## Requirements
 
@@ -25,7 +25,7 @@ This project focuses on predicting customer churn using Artificial Neural Networ
 - TensorFlow (version >= 2.5.0)
 - Keras (version >= 2.4.3)
 3. Run the project code:
-  `Naan Mudhalavan project (1).ipnby`
+  `Naan Mudhalavan project (1).ipynb`
 
 ## Dataset
 The project utilizes a dataset containing customer demographic information, purchasing behavior, and churn status. The dataset is stored in the `main` directory and can be accessed via the `WA_Fn-UseC_-Telco-Customer-Churn.csv` file.
@@ -36,8 +36,7 @@ The trained ANN model achieves an accuracy of approximately 80.07% on the test d
 ## Contributing
 Contributions to the project are welcome! Feel free to open issues for bug fixes or feature requests, and submit pull requests to contribute code enhancements.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
